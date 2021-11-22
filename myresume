@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title> RESUME </title>
+    </head>
+    <BODY>
+        <table cellspacing="20">
+            <tr>
+                <td><img src= "image1.jpg" alt="profile picture "> </td>
+                <td>
+                    <H1> <B> TSALIKI DIVYASREE </B></H1>
+                    <h3> EDUCATION : Aditya engineering college </h3>
+                    <h4> <b> specification in master of computer application </b></h4>
+                </tr>
+        </table>
+        <hr>
+        <u> <h2> EDUCATION </h2></u>
+        <OL TYPE="1"> 
+            <LI> post graduation </LI>
+            <li> graduation </li>
+            <li> intermediate </li>
+            <li> ssc </li>
+            <hr>
+        </OL>
+        <u> <h2> hobbies </h2></u>
+        <ol type="I">
+            <li> making craft with color paper </li>
+            <li> preparing new dishes</li>
+            <li> playing with kids </li>
+            <hr>
+        </ol>
+        <u> <h2> skills </h2> </u>
+        <ul type="disc">
+            <li> c programming </li>
+            <li> java </li>
+            <li> dbms </li>
+        </ul>
+    </BODY>
+</html>
